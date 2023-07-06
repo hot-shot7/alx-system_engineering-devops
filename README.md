@@ -1,1 +1,1 @@
-A repo for the projects on shell, basics
+Task 0, where am i?
